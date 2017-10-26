@@ -7,7 +7,7 @@
 
 **Model 1**: MLP with Batch Normalization
 
-Refactored and resued my previous code for this implementation. 
+Refactored and reused my previous code for this implementation. 
 
 URL: [link](https://github.com/LargePanda/Information-Bottleneck-for-Deep-Learning/blob/master/Fashion%20MNIST%20experiments.ipynb)
 

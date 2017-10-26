@@ -1,9 +1,14 @@
 # Information-Bottleneck-for-Deep-Learning
+
+![](https://raw.githubusercontent.com/LargePanda/Information-Bottleneck-for-Deep-Learning/master/img/plot.png)
+
+
 **Dataset**: fashion mnist
 
 **Model 1**: MLP with Batchnormalization
 
 Refactored and resued my previous code for this implementation. 
+
 URL: [link](https://github.com/LargePanda/Information-Bottleneck-for-Deep-Learning/blob/master/Fashion%20MNIST%20experiments.ipynb)
 
 **Model 2**: CNN

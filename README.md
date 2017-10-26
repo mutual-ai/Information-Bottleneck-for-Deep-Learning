@@ -13,7 +13,9 @@ Implemented in PyTorch
 URL: [link](https://github.com/LargePanda/Information-Bottleneck-for-Deep-Learning/blob/master/CNN.ipynb)
 
 
-**Model extension**: MLP with more than 3 layers (computationally expensive, in progress)
+**Model extension**: 
+1. MLP with more than 3 layers (computationally expensive, in progress)
+2. MLP with weights intialization via denoised autoencoder (in progress)
 
 **Other parameters**: 
 

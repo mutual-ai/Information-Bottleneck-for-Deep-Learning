@@ -27,5 +27,5 @@ URL: [link](https://github.com/LargePanda/Information-Bottleneck-for-Deep-Learni
 number of bins for MI: 10
 
 **Papers**
-[(Strouse, Schwab 2016)](https://arxiv.org/abs/1604.00268)
+[Deep Learning and the Information Bottleneck Principle](https://arxiv.org/pdf/1503.02406.pdf)
 [(Tishby, Pereira, Bialek 1999)](http://www.cs.huji.ac.il/labs/learning/Papers/allerton.pdf)

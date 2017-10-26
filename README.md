@@ -25,3 +25,7 @@ URL: [link](https://github.com/LargePanda/Information-Bottleneck-for-Deep-Learni
 **Other parameters**: 
 
 number of bins for MI: 10
+
+**Papers**
+[(Strouse, Schwab 2016)](https://arxiv.org/abs/1604.00268)
+[(Tishby, Pereira, Bialek 1999)](http://www.cs.huji.ac.il/labs/learning/Papers/allerton.pdf)

@@ -5,7 +5,7 @@
 
 **Dataset**: fashion mnist
 
-**Model 1**: MLP with Batchnormalization
+**Model 1**: MLP with Batch Normalization
 
 Refactored and resued my previous code for this implementation. 
 

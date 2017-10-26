@@ -27,6 +27,7 @@ URL: [link](https://github.com/LargePanda/Information-Bottleneck-for-Deep-Learni
 number of bins for MI: 10
 
 **Papers**
+0. [Opening the black box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf)
 1. [Deep Learning and the Information Bottleneck Principle](https://arxiv.org/pdf/1503.02406.pdf)
 2. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 3. [Regularization of Neural Networks using DropConnect](https://cs.nyu.edu/~wanli/dropc/dropc.pdf)

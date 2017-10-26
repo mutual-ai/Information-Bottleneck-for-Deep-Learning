@@ -1,4 +1,4 @@
-# Information-Bottleneck-for-Deep-Learning
+# Information Bottleneck for Deep Learning
 
 ![](https://raw.githubusercontent.com/LargePanda/Information-Bottleneck-for-Deep-Learning/master/img/plot.png)
 

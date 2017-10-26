@@ -38,7 +38,7 @@ def mi_plot(MI_client):
         ax.plot(en_mis[i,:], de_mis[i,:], 'k-', alpha=0.2)
         if i > 0:
             for j in range(len(en_mis[0])):
-                ax.plot(en_mis[(i-1):(i+1),j],de_mis[(i-1):(i+1),j],'.-', c=cmap(j*.2), ms = 8)
+                ax.plot(en_mis[(i-1):(i+1),j],de_mis[(i-1):(i+1),j],'.-', c = cmap(i*.008), ms = 8)
             
     for i in range(len(en_mis)):
         plot_point(i)

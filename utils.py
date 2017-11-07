@@ -35,6 +35,12 @@ def unison_shuffled_copies(a, b):
     p = np.random.permutation(len(a))
     return a[p], b[p]
 
+def randomize_copies(a, b):
+    assert len(a) == len(b)
+    p1 = np.random.permutation(len(a))
+    p2 = np.random.permutation(len(a))
+    return a[p1], b[p2]
+
 def d_RELU(x):
     return np.array(x>0).astype('double')
 

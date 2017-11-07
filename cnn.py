@@ -6,7 +6,7 @@ import torchvision
 from torchvision import datasets, transforms
 import torch.optim as optim
 import torchvision.datasets as dset
-\
+
 class Model(nn.Module):
     def __init__(self):
         super(Model, self).__init__()
